@@ -1,6 +1,6 @@
 ﻿using System; // tells what referenced items we will use
 
-namespace Shane_Practice_Friday
+namespace FinalProject
 {
     class Primary
     {
